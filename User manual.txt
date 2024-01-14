@@ -1,0 +1,4 @@
+(1)0pen the Main.mat by using the MATLAB soft.
+(2)Iput the Test data.
+(3)Copy the code in "Source code.docx" to the MATLAB soft.
+(4)Click the "Run" button.

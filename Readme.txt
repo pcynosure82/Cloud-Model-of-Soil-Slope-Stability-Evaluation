@@ -1,0 +1,1 @@
+This is the code of Cloud Model of Soil Slope Stability Evaluation Based on Multiple Linear Regression. If you have any questions, please contact me. Email:36959329@qq.com.Cell phone:+86 13859032460.
